@@ -1,6 +1,6 @@
-# sport_assess
+# AI-Sports-Talent-Assessment
 
-A new Flutter project.
+AI-powered mobile platform for democratizing sports talent assessment across India.
 
 ## Getting Started
 
