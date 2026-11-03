@@ -231,7 +231,7 @@ class _CoachRegisterScreenState
                     return 'Enter your experience';
                   }
 
-                  final years = int.tryParse(value);
+                  final years = int.tryParse(value.trim());
 
                   if (years == null || years < 0 || years > 60) {
                     return 'Enter valid years (0-60)';
